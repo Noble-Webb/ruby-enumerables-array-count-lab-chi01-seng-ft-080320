@@ -1,4 +1,7 @@
 def count_strings(array)
+ words = "happy"
+ array.count do |strings| 
+   num.class == words.class
   # Return the total number of strings in the provided array using the count enumerable
 end
 
